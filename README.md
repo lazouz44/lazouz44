@@ -1,7 +1,6 @@
 ### Hi there 👋
+![alt tag](https://user-images.githubusercontent.com/66057669/101988283-f51dd280-3c98-11eb-9bf4-a5a55cae3aa9.jpeg)
 
-<!--
-**lazouz44/lazouz44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
